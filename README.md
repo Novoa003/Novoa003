@@ -1,4 +1,4 @@
-### Hola, soy Juan Felipe 👋
+### Hola, soy Felipe
 **Desarrollador Full Stack · Bogotá, Colombia · Disponible para trabajo remoto**
 
 ---
