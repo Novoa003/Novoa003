@@ -1,4 +1,4 @@
-### Hola, soy Juan Felipe 👋
+### Hola, soy Juan Felipe 
 **Desarrollador Full Stack · Bogotá, Colombia · Disponible para trabajo remoto**
 
 ---
@@ -30,4 +30,4 @@ Desarrollador full stack con experiencia real en empresas, especializado en back
 
 ---
 
-📫 felipenovoa002@gmail.com · [LinkedIn](https://linkedin.com/in/felipe-novoa)
+felipenovoa002@gmail.com · [LinkedIn](https://linkedin.com/in/felipe-novoa)
