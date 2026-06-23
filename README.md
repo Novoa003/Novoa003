@@ -31,7 +31,7 @@ Desarrollador full stack con experiencia real en empresas, especializado en back
 | [agp-inventory](https://github.com/Novoa003/agp-inventory) | Herramienta web que automatiza el emparejamiento de pedidos en bodega; redujo 942 pedidos manuales | Python, Pandas, Streamlit, OpenPyXL |
 | [gestion-academica-backend](https://github.com/Novoa003/gestion-academica-backend) | API REST con CRUD completo, dockerizada con PostgreSQL | Java 17, Spring Boot 3.5, Docker |
 | [gestion-academica-frontend](https://github.com/Novoa003/gestion-academica-frontend) | Frontend que consume la API REST académica | React, Docker |
-| [allticketsco](https://github.com/Novoa003/allticketsco) | Réplica de interfaz, prueba técnica de maquetación | Angular, TypeScript |
+| [allticketsco](https://github.com/Novoa003/allticketscol) | Réplica de interfaz, prueba técnica de maquetación | Angular, TypeScript |
 
 ---
 
