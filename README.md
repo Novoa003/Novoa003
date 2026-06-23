@@ -1,4 +1,4 @@
-### Hola, soy Juan Felipe 
+### Hola, soy Juan Felipe 👋
 **Desarrollador Full Stack · Bogotá, Colombia · Disponible para trabajo remoto**
 
 ---
@@ -14,9 +14,11 @@ Desarrollador full stack con experiencia real en empresas, especializado en back
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python_3.11-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
@@ -24,6 +26,8 @@ Desarrollador full stack con experiencia real en empresas, especializado en back
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
+| [gps-telemetry](https://github.com/Novoa003) | Sistema de telemetría GPS en tiempo real: coordenadas, estados de vehículos y mapa interactivo | Java 21, Spring Boot 4.1, Next.js, Leaflet.js, Docker |
+| [agp-inventory](https://github.com/Novoa003) | Herramienta web que automatiza el emparejamiento de pedidos en bodega; redujo 942 pedidos manuales | Python, Pandas, Streamlit, OpenPyXL |
 | [gestion-academica-backend](https://github.com/Novoa003/gestion-academica-backend) | API REST con CRUD completo, dockerizada con PostgreSQL | Java 17, Spring Boot 3.5, Docker |
 | [gestion-academica-frontend](https://github.com/Novoa003/gestion-academica-frontend) | Frontend que consume la API REST académica | React, Docker |
 | [allticketsco](https://github.com/Novoa003/allticketsco) | Réplica de interfaz, prueba técnica de maquetación | Angular, TypeScript |
